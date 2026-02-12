@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid #4A5568; /* Tailwind's gray-700 */
+}
+h1 {
+    color: #F7FAFC; /* Tailwind's gray-100 */
+}
